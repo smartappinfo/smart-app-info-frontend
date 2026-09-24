@@ -1,0 +1,11 @@
+name = "smartappinfo-frontend"
+compatibility_date = "2024-01-01"
+
+# Cloudflare Pages configuration
+pages_build_output_dir = "dist"
+
+[env.production]
+name = "smartappinfo-frontend"
+
+[env.preview]
+name = "smartappinfo-frontend-preview"

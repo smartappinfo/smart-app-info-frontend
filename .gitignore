@@ -51,6 +51,13 @@ Thumbs.db
 .netlify/
 
 # =========================
+# Cloudflare
+# =========================
+.wrangler/
+.dev.vars
+wrangler.toml.backup
+
+# =========================
 # Coverage Reports
 # =========================
 coverage/
